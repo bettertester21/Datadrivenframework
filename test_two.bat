@@ -1,0 +1,1 @@
+  C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe C:\Users\Pbala\Documents\Healenium_Files\healenium-2.1.6\healenium-2.1.6\shell-installation\web\download_services.sh
